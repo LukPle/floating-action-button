@@ -1,0 +1,2 @@
+rootProject.name = "floating-action-button"
+include ':app'
