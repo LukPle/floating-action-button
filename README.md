@@ -1,4 +1,4 @@
-# Android App Library: Floating Action Button
+# Android App Library: RecyclerView with Floating Action Button
 
 ## About
 Welcome to our Android application. The app is part of the Open Sorce [Android App Library](https://github.com/LukPle/android-app-library.git) 
