@@ -9,7 +9,11 @@ The whole list gets displayed on the screen in a **RecyclerView**. The applicati
 
 ## Features
 The setting for this example is a shopping list. An ArrayList contains different items that need to be purchased. The items have a name and quantity.
-The user can add new items to the list by clicking the FloatingActionButton. This opens a Dialog window in which the user can put in the deatails of the new item.
+The user can add new items to the list by clicking the FloatingActionButton. This opens a Dialog window in which the user can put in the deatails of the new item. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
